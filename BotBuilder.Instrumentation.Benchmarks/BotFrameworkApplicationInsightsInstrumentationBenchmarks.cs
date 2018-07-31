@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Attributes.Columns;
-using BenchmarkDotNet.Attributes.Jobs;
 using BotBuilder.Instrumentation.Instumentation;
 using BotBuilder.Instrumentation.Interfaces;
 using BotBuilder.Instrumentation.Managers;
